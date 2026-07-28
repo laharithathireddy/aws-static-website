@@ -25,5 +25,24 @@ This project demonstrates how to host a static website using Amazon S3.
 ## Project Status
 ✅ Completed
 
+ ## Project Architecture
+
+```
+User
+   │
+   ▼
+Amazon S3 Bucket
+   │
+   ▼
+Static Website Hosting
+   │
+   ▼
+Website
+```
+## Live Website
+
+Successfully deployed using Amazon S3 Static Website Hosting.
+
 ## Author
-Lahari Thathireddy
+**Lahari Thathireddy**
+Aspiring Cloud Engineer | AWS Learner
